@@ -1,0 +1,3632 @@
+{
+"beep_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/beep1"
+            },
+            {
+                "name": "tsf:button/beep2"
+            },
+            {
+                "name": "tsf:button/beep3"
+            },
+            {
+                "name": "tsf:button/beep4"
+            },
+            {
+                "name": "tsf:button/beep5"
+            },
+            {
+                "name": "tsf:button/beep6"
+            },
+            {
+                "name": "tsf:button/beep7"
+            },
+            {
+                "name": "tsf:button/beep8"
+            },
+            {
+                "name": "tsf:button/beep9"
+            },
+            {
+                "name": "tsf:button/beep10"
+            }
+        ]
+    },
+    "twinkle_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/twinkle_button1"
+            },
+            {
+                "name": "tsf:button/twinkle_button2"
+            },
+            {
+                "name": "tsf:button/twinkle_button3"
+            }
+        ]
+    },
+    "bubble_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/bubble_button1"
+            },
+            {
+                "name": "tsf:button/bubble_button2"
+            },
+            {
+                "name": "tsf:button/bubble_button3"
+            }
+        ]
+    },
+    "flush_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/flush1"
+            },
+            {
+                "name": "tsf:button/flush2"
+            },
+            {
+                "name": "tsf:button/flush3"
+            }
+        ]
+    },
+    "snore_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/snore_button1"
+            },
+            {
+                "name": "tsf:button/snore_button2"
+            },
+            {
+                "name": "tsf:button/snore_button3"
+            }
+        ]
+    },
+    "wind_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/wind_button1"
+            },
+            {
+                "name": "tsf:button/wind_button2"
+            },
+            {
+                "name": "tsf:button/wind_button3"
+            }
+        ]
+    },
+    "fish_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/fish_button"
+            }
+        ]
+    },
+    "fish_spawn": {
+        "sounds": [
+            {
+                "name": "tsf:button/fish_spawn"
+            }
+        ]
+    },
+    "heli_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/heli_button"
+            }
+        ]
+    },
+    "oil_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/oil_button"
+            }
+        ]
+    },
+    "cat_button": {
+        "sounds": [
+            {
+                "name": "tsf:button/cat_button1"
+            },
+            {
+                "name": "tsf:button/cat_button2"
+            }
+        ]
+    },
+    "shark_attack": {
+        "sounds": [
+            {
+                "name": "tsf:button/shark_attack1"
+            },
+            {
+                "name": "tsf:button/shark_attack2"
+            },
+            {
+                "name": "tsf:button/shark_attack3"
+            }
+        ]
+    },
+    "shark": {
+		"category": "neutral",
+		"sounds": [{
+				"name": "tsf:ambience/shark1"
+			},
+			{
+				"name": "tsf:ambience/shark2"
+			},
+			{
+				"name": "tsf:ambience/shark3"
+			},
+			{
+				"name": "tsf:ambience/shark4"
+			},
+			{
+				"name": "tsf:ambience/shark5"
+			}
+		]
+    },
+    "ambience.gust": {
+		"category": "neutral",
+		"min_distance": 70.0,
+		"sounds": [{
+				"name": "tsf:ambience/ambientgust1"
+			},
+			{
+				"name": "tsf:ambience/ambientgust2"
+			},
+			{
+				"name": "tsf:ambience/ambientgust3"
+			},
+			{
+				"name": "tsf:ambience/ambientgust4"
+			},
+			{
+				"name": "tsf:ambience/ambientgust5"
+			}
+		]
+    },
+    "ambience.wind": {
+		"category": "neutral",
+		"min_distance": 70.0,
+		"sounds": [{
+				"name": "tsf:ambience/ambientwind1"
+			},
+			{
+				"name": "tsf:ambience/ambientwind2"
+			},
+			{
+				"name": "tsf:ambience/ambientwind3"
+			},
+			{
+				"name": "tsf:ambience/ambientwind4"
+			},
+			{
+				"name": "tsf:ambience/ambientwind5"
+			}
+		]
+    },
+    "ambience.birds": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/birds1"
+            },
+            {
+                "name": "tsf:ambience/birds2"
+            },
+            {
+                "name": "tsf:ambience/birds3"
+            },
+            {
+                "name": "tsf:ambience/birds4"
+            },
+            {
+                "name": "tsf:ambience/birds5"
+            },
+            {
+                "name": "tsf:ambience/birds6"
+            },
+            {
+                "name": "tsf:ambience/birds7"
+            },
+            {
+                "name": "tsf:ambience/birds8"
+            },
+            {
+                "name": "tsf:ambience/birds9"
+            },
+            {
+                "name": "tsf:ambience/birds10"
+            }
+        ]
+    },
+    "ambience.squirrel": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/squirrel1"
+            },
+            {
+                "name": "tsf:ambience/squirrel2"
+            },
+            {
+                "name": "tsf:ambience/squirrel3"
+            },
+            {
+                "name": "tsf:ambience/squirrel4"
+            },
+            {
+                "name": "tsf:ambience/squirrel5"
+            }
+        ]
+    },
+    "scientist_wake": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/scientist_wake_1"
+            },
+            {
+                "name": "tsf:ambience/scientist_wake_2"
+            },
+            {
+                "name": "tsf:ambience/scientist_wake_3"
+            },
+            {
+                "name": "tsf:ambience/scientist_wake_4"
+            }
+        ]
+    },
+    "spray_paint": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/spray_paint"
+            }
+        ]
+    },
+    "lobby_deep": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lobby_deep"
+            }
+        ]
+    },
+    "lobby_ice": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lobby_ice"
+            }
+        ]
+    },
+    "ambience.computer_loop": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/computer_loop1"
+            }
+        ]
+    },
+    "ambience.computer_bleep": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/computer_loop2",
+                "weight": 1
+            },
+            {
+                "name": "tsf:ambience/computer_loop3",
+                "weight": 1
+            },
+            {
+                "name": "tsf:ambience/computer_loop4",
+                "weight": 1
+            },
+            {
+                "name": "tsf:ambience/computer_loop5",
+                "weight": 1
+            },
+            {
+                "name": "tsf:ambience/computer_loop6",
+                "weight": 1
+            }
+        ]
+    },
+    "ambience.heli": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/heli",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.hum": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/hum",
+                "volume" : 0.3
+            }
+        ]
+    },
+    "keypad_correct": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/keypad_correct"
+            }
+        ]
+    },
+    "keypad_wrong": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/keypad_wrong"
+            }
+        ]
+    },
+    "keypad_door": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/keypad_door"
+            }
+        ]
+    },
+    "globe_spin": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/globe_spin"
+            }
+        ]
+    },
+    "flare": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/flare"
+            }
+        ]
+    },
+    "ambience.projector_loop": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/projector_loop"
+            }
+        ]
+    },
+    "ambience.projector_click": {
+        "sounds": [
+            "tsf:ambience/projector_click1",
+            "tsf:ambience/projector_click2",
+            "tsf:ambience/projector_click3",
+            "tsf:ambience/projector_click4",
+            "tsf:ambience/projector_click5",
+            "tsf:ambience/projector_click6"
+        ]
+    },
+    "ambience.chaindoor": {
+        "sounds": [
+            "tsf:ambience/chaindoor"
+        ]
+    },
+    "ambience.alarm": {
+        "category": "neutral",
+        "sounds": [
+            {
+                "name": "tsf:ambience/alarm"
+            }
+        ]
+    },
+    "ambience.hatch_button_press": {
+        "sounds": [
+            "tsf:ambience/hatch_button_press"
+        ]
+    },
+    "ambience.pods": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/pods1"
+            },
+            {
+                "name": "tsf:ambience/pods2"
+            },
+            {
+                "name": "tsf:ambience/pods3"
+            }
+        ]
+    },
+    "ambience.pods_down": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/pods_down1"
+            },
+            {
+                "name": "tsf:ambience/pods_down2"
+            },
+            {
+                "name": "tsf:ambience/pods_down3"
+            }
+        ]
+    },
+    "ambience.drillbutton": {
+        "sounds": [
+            "tsf:ambience/drillbutton1",
+            "tsf:ambience/drillbutton2",
+            "tsf:ambience/drillbutton3"
+        ]
+    },
+    "ambience.hatch_sequence": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/hatch_sequence",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.hatchdoor1": {
+        "sounds": [
+            "tsf:ambience/hatchdoor1"
+        ]
+    },
+    "ambience.hatchdoor2": {
+        "sounds": [
+            "tsf:ambience/hatchdoor2"
+        ]
+    },
+    "ambience.hatchdoor3": {
+        "sounds": [
+            "tsf:ambience/hatchdoor3"
+        ]
+    },
+    "ambience.hatchdoor4": {
+        "sounds": [
+            "tsf:ambience/hatchdoor4"
+        ]
+    },
+    "ambience.hatchdoor5": {
+        "sounds": [
+            "tsf:ambience/hatchdoor5"
+        ]
+    },
+    "ambience.hatchdoor6": {
+        "sounds": [
+            "tsf:ambience/hatchdoor6"
+        ]
+    },
+    "ambience.hatchdoor7": {
+        "sounds": [
+            "tsf:ambience/hatchdoor7"
+        ]
+    },
+    "ambience.hatchdoor8": {
+        "sounds": [
+            "tsf:ambience/hatchdoor8"
+        ]
+    },
+    "ambience.hatchdoor9": {
+        "sounds": [
+            "tsf:ambience/hatchdoor9"
+        ]
+    },
+    "ambience.lift_1_inside": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lift_1_inside",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.lift_1_outside_close": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lift_1_outside_close",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.lift_1_outside_far": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lift_1_outside_far",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.lift_2_inside": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lift_2_inside",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.lift_2_outside_close": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lift_2_outside_close",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.lift_2_outside_far": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/lift_2_outside_far",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator_music": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator_music",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator_button": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator_button",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator_door_open": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator_door_open"
+            }
+        ]
+    },
+    "ambience.elevator_door_close": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator_door_close"
+            }
+        ]
+    },
+    "ambience.elevator1a": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator1a",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator1b": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator1b",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator1c": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator1c",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator2a": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator2a",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator2b": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator2b",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.elevator2c": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/elevator2c",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.core": {
+        "min_distance": 100,
+        "sounds": [
+            {
+                "name": "tsf:ambience/core1"
+            },
+            {
+                "name": "tsf:ambience/core2"
+            },
+            {
+                "name": "tsf:ambience/core3"
+            },
+            {
+                "name": "tsf:ambience/core4"
+            },
+            {
+                "name": "tsf:ambience/core5"
+            }
+        ]
+    },
+    "ambience.core_string": {
+        "min_distance": 100,
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_string1"
+            },
+            {
+                "name": "tsf:ambience/core_string2"
+            },
+            {
+                "name": "tsf:ambience/core_string3"
+            },
+            {
+                "name": "tsf:ambience/core_string4"
+            },
+            {
+                "name": "tsf:ambience/core_string5"
+            }
+        ]
+    },
+    "ambience.airlock_flow": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/airlock_flow",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.core_airlock_close_inside": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_airlock_close_inside",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.core_airlock_open_inside": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_airlock_open_inside",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.core_airlock_open_outside": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_airlock_open_outside",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.airlock_door": {
+        "sounds": [
+            "tsf:ambience/airlock_door"
+        ]
+    },
+    "ambience.airlock_button": {
+        "sounds": [
+            "tsf:ambience/airlock_button"
+        ]
+    },
+    "ambience.glassdoor": {
+        "sounds": [
+            "tsf:ambience/glassdoor"
+        ]
+    },
+    "ambience.core_shockwave": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_shockwave"
+            }
+        ]
+    },
+    "ambience.core_rattle": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_rattle1"
+            },
+            {
+                "name": "tsf:ambience/core_rattle2"
+            },
+            {
+                "name": "tsf:ambience/core_rattle3"
+            }
+        ]
+    },
+    "ambience.pipe_burst1": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/pipe_burst1"
+            }
+        ]
+    },
+    "ambience.pipe_burst2": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/pipe_burst2"
+            }
+        ]
+    },
+    "ambience.light_electric": {
+        "sounds": [
+            "tsf:ambience/light_electric1",
+            "tsf:ambience/light_electric2",
+            "tsf:ambience/light_electric3",
+            "tsf:ambience/light_electric4",
+            "tsf:ambience/light_electric5"
+        ]
+    },
+    "cuckoo_clock": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/cuckoo_clock"
+            }
+        ]
+    },
+    "cuckoo_clock_tick": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/cuckoo_clock_tick"
+            }
+        ]
+    },
+    "ambience.door_light_on": {
+        "sounds": [
+            "tsf:ambience/door_light_on"
+        ]
+    },
+    "ambience.light_on": {
+        "sounds": [
+            "tsf:ambience/light_on"
+        ]
+    },
+    "ambience.light_off": {
+        "sounds": [
+            "tsf:ambience/light_off"
+        ]
+    },
+    "ambience.power_on": {
+        "sounds": [
+            "tsf:ambience/power_on"
+        ]
+    },
+    "ambience.power_off": {
+        "sounds": [
+            "tsf:ambience/power_off"
+        ]
+    },
+    "ambience.core_airlock_cycle": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/core_airlock_cycle",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.flush": {
+        "sounds": [
+            "tsf:ambience/flush1",
+            "tsf:ambience/flush2",
+            "tsf:ambience/flush3",
+            "tsf:ambience/flush4"
+        ]
+    },
+    "ambience.drill_destruction": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:ambience/drill_destruction",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.cannon": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/cannon",
+                "stream": true
+            }
+        ]
+    },
+    "ambience.psssh": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/psssh"
+            }
+        ]
+    },
+    "ambience.roof_open": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/roof_open"
+            }
+        ]
+    },
+    "ambience.teleporter": {
+        "sounds": [
+            "tsf:ambience/teleporter"
+        ]
+    },
+    "ambience.teleporter_loop": {
+        "sounds": [
+            "tsf:ambience/teleporter_loop"
+        ]
+    },
+    "ambience.teleporter_button": {
+        "sounds": [
+            "tsf:ambience/teleporter_button"
+        ]
+    },
+    "ambience.teleporter_speed_run": {
+        "sounds": [
+            "tsf:ambience/teleporter_speed_run"
+        ]
+    },
+    "ambience.vertical_door_open": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/vertical_door_open"
+            }
+        ]
+    },
+    "ambience.vertical_door_close": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/vertical_door_close"
+            }
+        ]
+    },
+    "ambience.vault_door": {
+        "sounds": [
+            "tsf:ambience/vault_door"
+        ]
+    },
+    "ambience.gdl_door_open": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/gdl_door_open"
+            }
+        ]
+    },
+    "ambience.gdl_door_close": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/gdl_door_close"
+            }
+        ]
+    },
+    "ambience.minnowski_slump": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/minnowski_slump"
+            }
+        ]
+    },
+    "ambience.minnowski_wink": {
+        "sounds": [
+            {
+                "name": "tsf:ambience/minnowski_wink"
+            }
+        ]
+    },
+    "glider.death": {
+        "sounds": [
+            "tsf:glider/death1",
+            "tsf:glider/death2",
+            "tsf:glider/death3"
+        ]
+    },
+    "glider.boot_up": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/boot_up",
+                "stream": true
+            }
+        ]
+    },
+    "glider.reboot": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/reboot",
+                "stream": true
+            }
+        ]
+    },
+    "glider.blank": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/blank",
+                "stream": true
+            }
+        ]
+    },
+    "glider.bootup_wings": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/bootup_wings"
+            }
+        ]
+    },
+    "glider.bootup_fusion": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/bootup_fusion"
+            }
+        ]
+    },
+    "glider.bootup_air": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/bootup_air"
+            }
+        ]
+    },
+    "glider.bootup_gel": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/bootup_gel"
+            }
+        ]
+    },
+    "glider.equip": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/equip"
+            }
+        ]
+    },
+    "glider.beep": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/beep"
+            }
+        ]
+    },
+    "glider.pointsound": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/pointsound"
+            }
+        ]
+    },
+    "glider.unicorn": {
+        "sounds": [
+            "tsf:glider/unicorn"
+        ]
+    },
+    "glider.pointsound_dark": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:glider/pointsound_dark"
+            }
+        ]
+    },
+    "glider.unicorn_dark": {
+        "sounds": [
+            "tsf:glider/dark_unicorn"
+        ]
+    },
+    "glider.autumn1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/autumn1"
+            }
+        ]
+    },
+    "glider.cars1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/cars1"
+            }
+        ]
+    },
+    "glider.cars2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/cars2"
+            }
+        ]
+    },
+    "glider.cars3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/cars3"
+            }
+        ]
+    },
+    "glider.cars4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/cars4"
+            }
+        ]
+    },
+    "glider.cars5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/cars5"
+            }
+        ]
+    },
+    "glider.castles1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/castles1"
+            }
+        ]
+    },
+    "glider.castles2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/castles2"
+            }
+        ]
+    },
+    "glider.city1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/city1"
+            }
+        ]
+    },
+    "glider.city2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/city2"
+            }
+        ]
+    },
+    "glider.city3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/city3"
+            }
+        ]
+    },
+    "glider.city4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/city4"
+            }
+        ]
+    },
+    "glider.city5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/city5"
+            }
+        ]
+    },
+    "glider.deep1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep1"
+            }
+        ]
+    },
+    "glider.deep2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep2"
+            }
+        ]
+    },
+    "glider.deep3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep3"
+            }
+        ]
+    },
+    "glider.deep4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep4"
+            }
+        ]
+    },
+    "glider.deep5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep5"
+            }
+        ]
+    },
+    "glider.deep6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep6"
+            }
+        ]
+    },
+    "glider.deep7": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep7"
+            }
+        ]
+    },
+    "glider.deep8": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/deep8"
+            }
+        ]
+    },
+    "glider.destructo1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructo1"
+            }
+        ]
+    },
+    "glider.destructo2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructo2"
+            }
+        ]
+    },
+    "glider.destructo3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructo3"
+            }
+        ]
+    },
+    "glider.destructovdino1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino1"
+            }
+        ]
+    },
+    "glider.destructovdino2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino2"
+            }
+        ]
+    },
+    "glider.destructovdino3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino3"
+            }
+        ]
+    },
+    "glider.destructovdino4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino4"
+            }
+        ]
+    },
+    "glider.destructovdino5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino5"
+            }
+        ]
+    },
+    "glider.destructovdino6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino6"
+            }
+        ]
+    },
+    "glider.destructovdino7": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/destructovdino7"
+            }
+        ]
+    },
+    "glider.dragon1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dragon1"
+            }
+        ]
+    },
+    "glider.dragon2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dragon2"
+            }
+        ]
+    },
+    "glider.dragon3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dragon3"
+            }
+        ]
+    },
+    "glider.dragon4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dragon4"
+            }
+        ]
+    },
+    "glider.dragon5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dragon5"
+            }
+        ]
+    },
+    "glider.dropper1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dropper1"
+            }
+        ]
+    },
+    "glider.dropper2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/dropper2"
+            }
+        ]
+    },
+    "glider.elf1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf1"
+            }
+        ]
+    },
+    "glider.elf2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf2"
+            }
+        ]
+    },
+    "glider.elf3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf3"
+            }
+        ]
+    },
+    "glider.elf4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf4"
+            }
+        ]
+    },
+    "glider.elf5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf5"
+            }
+        ]
+    },
+    "glider.elf6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf6"
+            }
+        ]
+    },
+    "glider.elf7": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf7"
+            }
+        ]
+    },
+    "glider.elf8": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf8"
+            }
+        ]
+    },
+    "glider.elf9": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf9"
+            }
+        ]
+    },
+    "glider.elf10": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf10"
+            }
+        ]
+    },
+    "glider.elf11": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf11"
+            }
+        ]
+    },
+    "glider.elf12": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/elf12"
+            }
+        ]
+    },
+    "glider.frozen1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/frozen1"
+            }
+        ]
+    },
+    "glider.frozen2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/frozen2"
+            }
+        ]
+    },
+    "glider.frozen3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/frozen3"
+            }
+        ]
+    },
+    "glider.grid1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid1"
+            }
+        ]
+    },
+    "glider.grid2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid2"
+            }
+        ]
+    },
+    "glider.grid3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid3"
+            }
+        ]
+    },
+    "glider.grid4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid4"
+            }
+        ]
+    },
+    "glider.grid5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid5"
+            }
+        ]
+    },
+    "glider.grid6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid6"
+            }
+        ]
+    },
+    "glider.grid7": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/grid7"
+            }
+        ]
+    },
+    "glider.hole1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/hole1"
+            }
+        ]
+    },
+    "glider.hole2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/hole2"
+            }
+        ]
+    },
+    "glider.ice1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ice1"
+            }
+        ]
+    },
+    "glider.ice2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ice2"
+            }
+        ]
+    },
+    "glider.ice3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ice3"
+            }
+        ]
+    },
+    "glider.jeoffrey1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/jeoffrey1"
+            }
+        ]
+    },
+    "glider.mansionsone1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/mansionsone1"
+            }
+        ]
+    },
+    "glider.mansionsone2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/mansionsone2"
+            }
+        ]
+    },
+    "glider.mansionstwo1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/mansionstwo1"
+            }
+        ]
+    },
+    "glider.mansionstwo2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/mansionstwo2"
+            }
+        ]
+    },
+    "glider.mansionstwo3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/mansionstwo3"
+            }
+        ]
+    },
+    "glider.mansionstwo4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/mansionstwo4"
+            }
+        ]
+    },
+    "glider.movie1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie1"
+            }
+        ]
+    },
+    "glider.movie2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie2"
+            }
+        ]
+    },
+    "glider.movie3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie3"
+            }
+        ]
+    },
+    "glider.movie4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie4"
+            }
+        ]
+    },
+    "glider.movie5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie5"
+            }
+        ]
+    },
+    "glider.movie6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie6"
+            }
+        ]
+    },
+    "glider.movie7": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie7"
+            }
+        ]
+    },
+    "glider.movie8": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/movie8"
+            }
+        ]
+    },
+    "glider.ninjas1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ninjas1"
+            }
+        ]
+    },
+    "glider.ninjas2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ninjas2"
+            }
+        ]
+    },
+    "glider.ninjas3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ninjas3"
+            }
+        ]
+    },
+    "glider.ninjas4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ninjas4"
+            }
+        ]
+    },
+    "glider.ninjas5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/ninjas5"
+            }
+        ]
+    },
+    "glider.pirate1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate1"
+            }
+        ]
+    },
+    "glider.pirate2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate2"
+            }
+        ]
+    },
+    "glider.pirate3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate3"
+            }
+        ]
+    },
+    "glider.pirate4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate4"
+            }
+        ]
+    },
+    "glider.pirate5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate5"
+            }
+        ]
+    },
+    "glider.pirate6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate6"
+            }
+        ]
+    },
+    "glider.pirate7": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate7"
+            }
+        ]
+    },
+    "glider.pirate8": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate8"
+            }
+        ]
+    },
+    "glider.pirate9": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate9"
+            }
+        ]
+    },
+    "glider.pirate10": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate10"
+            }
+        ]
+    },
+    "glider.pirate11": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate11"
+            }
+        ]
+    },
+    "glider.pirate12": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate12"
+            }
+        ]
+    },
+    "glider.pirate13": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate13"
+            }
+        ]
+    },
+    "glider.pirate14": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate14"
+            }
+        ]
+    },
+    "glider.pirate15": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate15"
+            }
+        ]
+    },
+    "glider.pirate16": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/pirate16"
+            }
+        ]
+    },
+    "glider.space1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/space1"
+            }
+        ]
+    },
+    "glider.space2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/space2"
+            }
+        ]
+    },
+    "glider.space3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/space3"
+            }
+        ]
+    },
+    "glider.space4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/space4"
+            }
+        ]
+    },
+    "glider.space5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/space5"
+            }
+        ]
+    },
+    "glider.space6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/space6"
+            }
+        ]
+    },
+    "glider.spring1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/spring1"
+            }
+        ]
+    },
+    "glider.spring2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/spring2"
+            }
+        ]
+    },
+    "glider.spring3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/spring3"
+            }
+        ]
+    },
+    "glider.summer1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/summer1"
+            }
+        ]
+    },
+    "glider.summer2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/summer2"
+            }
+        ]
+    },
+    "glider.summer3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/summer3"
+            }
+        ]
+    },
+    "glider.summer4": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/summer4"
+            }
+        ]
+    },
+    "glider.summer5": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/summer5"
+            }
+        ]
+    },
+    "glider.summer6": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/summer6"
+            }
+        ]
+    },
+    "glider.winter1": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/winter1"
+            }
+        ]
+    },
+    "glider.winter2": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/winter2"
+            }
+        ]
+    },
+    "glider.winter3": {
+        "sounds": [
+            {
+                "name": "tsf:glider/throwbacks/winter3"
+            }
+        ]
+    },
+    "gamemode_changed": {
+        "category": "ui",
+        "sounds": [
+            "tsf:gamemode_changed"
+        ]
+    },
+    "achievement": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/achievement"
+            }
+        ]
+    },
+    "achievement.complete": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/complete",
+                "volume": 0.8
+            }
+        ]
+    },
+
+    "music.glidermusic1": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/gliding_by_isaac_wilkins",
+                "stream": true
+            }
+        ]
+    },
+    "music.glidermusic2": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/gliding_by_isaac_wilkins_loop",
+                "stream": true
+            }
+        ]
+    },
+    "music.glidermusic_end": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/gliding_by_isaac_wilkins_end",
+                "stream": true
+            }
+        ]
+    },
+    "music.glidermusic_test": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/gliding_by_isaac_wilkins_test",
+                "stream": true
+            }
+        ]
+    },
+    "music.creditsong": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "tsf:music/makalu_by_isaac_wilkins",
+                "stream": true
+            }
+        ]
+    },
+    "voices.femvoicecomm_1": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/femvoicecomm_1",
+                "stream": true
+            }
+        ]
+    },
+    "voices.femvoicecomm_2": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/femvoicecomm_2",
+                "stream": true
+            }
+        ]
+    },
+    "voices.femvoicecomm_3": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/femvoicecomm_3",
+                "stream": true
+            }
+        ]
+    },
+    "voices.femvoicecomm_chamber": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/femvoicecomm_chamber",
+                "stream": true
+            }
+        ]
+    },
+    "voices.femvoicecomm_crystals": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/femvoicecomm_crystals",
+                "stream": true
+            }
+        ]
+    },
+    "voices.femvoicecomm_intro": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/femvoicecomm_intro",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_land": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_land",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_alphareach": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_alphareach",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_alphareach_solo": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_alphareach_solo",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_alphateleport": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_alphateleport",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_betareach": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_betareach",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_betareach_solo": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_betareach_solo",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_betateleport": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_betateleport",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_corenearby": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_corenearby",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_coreteleport": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_coreteleport",
+                "stream": true
+            }
+        ]
+    },
+    "voices.tfa_maxtemp": {
+        "category": "ui",
+        "sounds": [
+            {
+                "name": "tsf:voices/tfa_maxtemp",
+                "stream": true
+            }
+        ]
+    },
+    "voices.mystery": {
+        "sounds": [
+            {
+                "name": "tsf:voices/mystery"
+            }
+        ]
+    },
+    "voices.b_1": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_1",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_2": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_2",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_3": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_3",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_4": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_4",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_5": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_5",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_6": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_6",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_7": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_7",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_8": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_8",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_9": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_9",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_10": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_10",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_11": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_11",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_12": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_12",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_13": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_13",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_14": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_14",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_15": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_15",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_16": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_16",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_17": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_17",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_18": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_18",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_19": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_19",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_20": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_20",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_21": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_21",
+                "stream": true
+            }
+        ]
+    },
+    "voices.b_22": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_22",
+                "stream": true
+            }
+        ]
+    },
+    "voices.barney_shout": {
+        "sounds": [
+            {
+                "name": "tsf:voices/barney_shout",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_pre_intro": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_pre_intro",
+								"stream": true,
+								"attenuation_distance":10
+            }
+        ]
+    },
+    "voices.alan_l_intro1": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro1",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro2": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro2",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro3": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro3",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro4": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro4",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro5": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro5",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro6": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro6",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro7": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro7",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro8": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro8",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro9": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro9",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro10": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro10",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_l_intro11": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro11",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_pre_intro": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_pre_intro",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro1": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro1",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro2": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro2",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro3": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro3",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro4": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro4",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro5": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro5",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro6": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro6",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro7": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro7",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro8": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro8",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro9": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro9",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro10": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro10",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_r_intro11": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_intro11",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_museum1": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_museum1",
+                "stream": true
+            }
+        ]
+    },
+    "voices.alan_museum2": {
+        "sounds": [
+            {
+                "name": "tsf:voices/alan_museum2",
+                "stream": true
+            }
+        ]
+    },
+    "voices.noxcrew": {
+        "sounds": [
+            "tsf:voices/noxcrew"
+        ]
+    },
+    "glider.noxcrew_together": {
+        "sounds": [
+            "tsf:voices/noxcrew_together"
+        ]
+    },
+    "glider.yay": {
+        "sounds": [
+            "tsf:voices/yay"
+        ]
+    },
+    "voices.wacky": {
+        "sounds": [
+            {
+                "name": "tsf:voices/wacky",
+                "volume" : 0.1
+            }
+        ]
+    },
+    "voices.scientist_a1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist1",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist2",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist3",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist4",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist5",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist6",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist7",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist8",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist9",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist10",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist11",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist12",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist13",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist14",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a15": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist15",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a16": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist16",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a17": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist17",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a18": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist18",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a19": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist19",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a20": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist20",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a21": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist21",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a22": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist22",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a23": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist23",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a24": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist55",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a25": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist56",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a26": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist57",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a27": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist58",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a28": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist59",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a29": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist60",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a30": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist61",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a31": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist62",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a32": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist63",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a33": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist64",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a34": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist65",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a35": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist66",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a36": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist67",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a37": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist68",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a38": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist69",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_a39": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist70",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist24",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist25",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist26",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist27",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist28",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist29",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist30",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist31",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist32",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist33",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist34",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist35",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist36",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist37",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b15": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist38",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b16": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist39",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_b17": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist40",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist71",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist72",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist73",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist74",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist75",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist76",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist77",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist78",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist79",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist80",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist81",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist82",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist83",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist84",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c15": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist85",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c16": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist86",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_c17": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist87",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist88",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist89",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist90",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist91",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist92",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist93",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist94",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist95",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist96",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist97",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist98",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist99",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist100",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_d14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist107",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist108",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist109",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist110",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist111",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist112",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist113",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist114",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist115",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist116",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist117",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist118",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist119",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_e13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist120",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_f1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist121",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_f2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist122",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_f3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist123",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist124",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist125",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist126",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist127",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist128",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist129",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist130",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist131",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist132",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist133",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist134",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist135",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist136",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist137",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_g15": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist138",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist139",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist140",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist141",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist142",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist143",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist144",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist145",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist146",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_h9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist147",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist148",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist149",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist150",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist151",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist152",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist153",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist154",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist155",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist156",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist157",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist158",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist159",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist160",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist161",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i15": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist162",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i16": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist163",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i17": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist164",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_i18": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist165",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_j1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist166",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_j2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist167",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_j3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist168",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_j4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist169",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_j5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist170",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_j6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist171",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_k1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist173"}]
+    },
+    "voices.scientist_k2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist174"}]
+    },
+    "voices.scientist_k3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist175"}]
+    },
+    "voices.scientist_k4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist177"}]
+    },
+    "voices.scientist_k5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist178"}]
+    },
+    "voices.scientist_k6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist179"}]
+    },
+    "voices.scientist_k7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist180"}]
+    },
+    "voices.scientist_k8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist181"}]
+    },
+    "voices.scientist_k9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist184"}]
+    },
+    "voices.scientist_k10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist185"}]
+    },
+    "voices.scientist_k11": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist186"}]
+    },
+    "voices.scientist_k12": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist187"}]
+    },
+    "voices.scientist_k13": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist188"}]
+    },
+    "voices.scientist_k14": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist189"}]
+    },
+    "voices.scientist_k15": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist190"}]
+    },
+    "voices.scientist_l1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist191",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist192",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist193",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist194",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist195",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist196",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist197",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_l8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist198",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m1": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist199",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m2": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist200",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m3": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist201",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m4": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist202",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m5": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist203",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m6": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist204",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m7": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist205",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m8": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist206",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m9": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist207",
+            "min_distance": 5.0 }]
+    },
+    "voices.scientist_m10": {
+        "sounds": [{
+            "name": "tsf:voices/scientist/scientist208",
+            "min_distance": 5.0 }]
+    },
+    "voices.sasha_intro": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_intro",
+                "stream": true
+            }
+        ]
+    },
+    "voices.sasha_intro_cut": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_intro_cut",
+                "stream": true
+            }
+        ]
+    },
+    "voices.sasha_go_1": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_go_1",
+                "stream": true
+            }
+        ]
+    },
+    "voices.sasha_go_2": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_go_2",
+                "stream": true
+            }
+        ]
+    },
+    "voices.sasha_ambient1": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_1"
+            }
+        ]
+    },
+    "voices.sasha_ambient2": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_2"
+            }
+        ]
+    },
+    "voices.sasha_ambient3": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_3"
+            }
+        ]
+    },
+    "voices.sasha_ambient4": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_4"
+            }
+        ]
+    },
+    "voices.sasha_ambient5": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_5"
+            }
+        ]
+    },
+    "voices.sasha_ambient6": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_6"
+            }
+        ]
+    },
+    "voices.sasha_ambient7": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_7"
+            }
+        ]
+    },
+    "voices.sasha_ambient8": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_8"
+            }
+        ]
+    },
+    "voices.sasha_ambient9": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_9"
+            }
+        ]
+    },
+    "voices.sasha_ambient10": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_10"
+            }
+        ]
+    },
+    "voices.sasha_ambient11": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_11"
+            }
+        ]
+    },
+    "voices.sasha_ambient12": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_12"
+            }
+        ]
+    },
+    "voices.sasha_ambient13": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_13"
+            }
+        ]
+    },
+    "voices.sasha_ambient14": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_14"
+            }
+        ]
+    },
+    "voices.sasha_ambient15": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_15"
+            }
+        ]
+    },
+    "voices.sasha_ambient16": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_16"
+            }
+        ]
+    },
+    "voices.sasha_ambient17": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_17"
+            }
+        ]
+    },
+    "voices.sasha_ambient18": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_18"
+            }
+        ]
+    },
+    "voices.sasha_ambient19": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_19"
+            }
+        ]
+    },
+    "voices.sasha_ambient20": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_20"
+            }
+        ]
+    },
+    "voices.sasha_ambient21": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_21"
+            }
+        ]
+    },
+    "voices.sasha_ambient22": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_22"
+            }
+        ]
+    },
+    "voices.sasha_ambient23": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_23"
+            }
+        ]
+    },
+    "voices.sasha_ambient24": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_24"
+            }
+        ]
+    },
+    "voices.sasha_ambient25": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_25"
+            }
+        ]
+    },
+    "voices.sasha_ambient26": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_26"
+            }
+        ]
+    },
+    "voices.sasha_ambient27": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_27"
+            }
+        ]
+    },
+    "voices.sasha_ambient28": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_28"
+            }
+        ]
+    },
+    "voices.sasha_ambient29": {
+        "sounds": [
+            {
+                "name": "tsf:voices/sasha_ambient_29"
+            }
+        ]
+    }
+}
