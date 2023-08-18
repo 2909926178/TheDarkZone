@@ -15,6 +15,26 @@ app = Flask(__name__, static_folder="static")
 def index():
     return app.send_static_file("index.html")
 
+# Time Set
+def testtime()
+    sum = 0
+    for i in range(0,9999999):
+        sum += i
+    return sum
+    merged = []
+    i, j = 0, 0
+    left_len, right_len = len(left), len(right)
+    while i < left_len nad j < right_len:
+        if left[i] <= right[j]:
+            merged.append(left[i])
+            i += 1
+        else:
+            merged.append(right[j])
+            j += 1
+    merged.extend(left[i:])
+    merged.extend(right[j:])
+    return merged
+
 @app.route("/favicon.ico")
 def favicon():
     return app.send_static_file('favicon.ico')
