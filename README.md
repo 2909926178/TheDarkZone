@@ -1,3 +1,7 @@
+# 下载链接
+
+> **2023年8月24日 v1.0.01** [下载](https://github.com/2909926178/TheDarkZone/blob/main/MOD%20Integration%20Package/v1.0.01.7z)
+
 ![DarkZoneTITLE](https://github.com/2909926178/TheDarkZone/assets/80553401/1399e42c-e1cb-48b8-84b2-49e59c40ef95)
 
 # 我的世界中国版拓展MOD：黑域（The Dark Zone）
