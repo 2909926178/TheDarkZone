@@ -1,0 +1,24 @@
+{
+    "format_version": "1.16.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": 0,
+            "minecraft:destroy_time": 2.0,
+            "minecraft:map_color": "#ffffff",
+            "netease:face_directional": {
+                "type": "direction"
+            },
+            "netease:render_layer": {
+                "value": "alpha"
+            },
+            "netease:tier": {
+                "digger": "pickaxe",
+                "level": 0
+            }
+        },
+        "description": {
+            "identifier": "hy:pm",
+            "register_to_creative_menu": true
+        }
+    }
+}
