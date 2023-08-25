@@ -1,6 +1,7 @@
 # 下载链接
 
-> **2023年8月24日 v1.0.01** [下载](https://github.com/2909926178/TheDarkZone/blob/main/MOD%20Integration%20Package/v1.0.01.7z)
+> **2023年8月24日 v1.0.01** [下载](https://github.com/2909926178/TheDarkZone/files/12438159/v1.0.01.zip)
+
 
 ![DarkZoneTITLE](https://github.com/2909926178/TheDarkZone/assets/80553401/1399e42c-e1cb-48b8-84b2-49e59c40ef95)
 
